@@ -1,6 +1,6 @@
 // ČUDA ZEMLJE – Offline-Unterstützung
 // Bei jeder neuen Version der App diese Nummer erhöhen, damit alle Handys das Update bekommen.
-const VERSION = 'cz-v1';
+const VERSION = 'cz-v2';
 const SHELL = ['./', 'index.html', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
